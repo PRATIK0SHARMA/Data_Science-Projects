@@ -5,6 +5,8 @@
 -`PROJECT_1.ipynb`: Jyputer Notebook with analysis.
 -`data/`: Folder containing datasets (`CONVENIENT_global_confirmed_cases.csv`).
 
+**Libraries**: pandas, sklearn, matplotlib,numpy.
+
 ## How to Run
 1. Install dependencies:`pip install -r requirements.txt`.
 2. Open `CONVENIENT_global_confirmed_cases.csv` in Jupyter.
