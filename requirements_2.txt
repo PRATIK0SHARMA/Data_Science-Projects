@@ -1,0 +1,5 @@
+SALES-ANALYSIS/requirements.txt
+matplotlib>=3.10.0
+pandas>= 2.2.3
+numpy>=1.26.4
+seaborn>=0.13.2
